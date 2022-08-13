@@ -7,7 +7,7 @@ namespace ParalletNet
     {
         static void Main(string[] args)
         {
-            HandlingBasicExceptions.Run();
+            LocalVariableEvaluation.Run();
             Console.ReadKey();
         }
     }
