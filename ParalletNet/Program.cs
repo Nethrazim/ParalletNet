@@ -7,10 +7,10 @@ namespace ParalletNet
     {
         static void Main(string[] args)
         {
-            LocalVariableEvaluation.Run();
+            WorkingWithConcurrentCollections.Run2();
             Console.ReadKey();
         }
     }
 }
 
-// 58
+// 126
